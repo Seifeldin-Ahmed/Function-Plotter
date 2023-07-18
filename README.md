@@ -5,48 +5,22 @@ ___
 ## Screen shots
 
 ### working screen shots
-<table>
-  <tr>
-    <td><img src="Function-Plotter\assets\images\1.png"></td>
-    <td><img src="Function-Plotter\assets\images\2.png"></td>
-    <td><img src="Function-Plotter\assets\images\3.png"></td>
-  </tr>
-  <tr>
-    <td><img src="Function-Plotter\assets\images\4.png"></td>
-    <td><img src="Function-Plotter\assets\images\5.png"></td>
-    <td><img src="Function-Plotter\assets\images\6.png"></td>
-  </tr>
-  <tr>
-    <td><img src="Function-Plotter\assets\images\7.png"></td>
-    <td><img src="Function-Plotter\assets\images\8.png"></td>
-    <td><img src="Function-Plotter\assets\images\9.png"></td>
-  </tr>
-</table>
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![sd](assets\images\1.png) | ![sd](assets\images\2.png) |![sd](assets\images\3.png) |
+|![sd](assets\images\4.png) | ![sd](assets\images\5.png) |![sd](assets\images\6.png) |
+|![sd](assets\images\7.png) | ![sd](assets\images\8.png) |![sd](assets\images\9.png) |
 
 ### wrong examples
 
-<table>
-  <tr>
-    <td><img src="Function-Plotter\assets\images\10.png"></td>
-    <td><img src="Function-Plotter\assets\images\11.png"></td>
-    <td><img src="Function-Plotter\assets\images\12.png"></td>
-  </tr>
-  <tr>
-    <td><img src="Function-Plotter\assets\images\13.png"></td>
-    <td><img src="Function-Plotter\assets\images\14.png"></td>
-    <td><img src="Function-Plotter\assets\images\15.png"></td>
-  </tr>
-  <tr>
-    <td><img src="Function-Plotter\assets\images\16.png"></td>
-    <td><img src="Function-Plotter\assets\images\17.png"></td>
-    <td><img src="Function-Plotter\assets\images\18.png"></td>
-  </tr>
-  <tr>
-    <td><img src="Function-Plotter\assets\images\19.png"></td>
-    <td><img src="Function-Plotter\assets\images\20.png"></td>
-    <td><img src="Function-Plotter\assets\images\21.png"></td>
-  </tr>
-</table>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![sd](assets\images\10.png) | ![sd](assets\images\11.png) |![sd](assets\images\12.png) |
+|![sd](assets\images\13.png) | ![sd](assets\images\14.png) |![sd](assets\images\15.png) |
+|![sd](assets\images\16.png) | ![sd](assets\images\17.png) |![sd](assets\images\18.png) |
+|![sd](assets\images\19.png) | ![sd](assets\images\20.png) |![sd](assets\images\21.png) |
+
 
 ___
 ## Video Recording
