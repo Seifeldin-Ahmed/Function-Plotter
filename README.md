@@ -27,7 +27,11 @@ ___
 ___
 ## Video Recording
  
-https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/2f8195c7-2c79-4add-97e9-b7ae56206739
+
+https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/47c67e0e-f645-49ff-b008-7864762c0dcc
+
+
+
 ___
 ## How to  Start
 
