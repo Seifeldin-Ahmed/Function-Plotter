@@ -1,0 +1,11 @@
+pip install matplotlib==3.7.2
+PySide2==5.15.2.1 
+pytest==7.4.0 
+pytest-qt==4.2.0
+pytest-mock==4.2.0
+numpy==1.25.1
+packaging==23.1 
+shiboken2==5.15.2.1
+python-dateutil==2.8.2 
+Pillow==10.0.0
+
