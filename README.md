@@ -50,6 +50,7 @@ ___
 ___
 ##Video Recording
  
+https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/2f8195c7-2c79-4add-97e9-b7ae56206739
 ___
 ##How to  Start
 
