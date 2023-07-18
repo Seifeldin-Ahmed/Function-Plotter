@@ -6,21 +6,22 @@ ___
 
 ### working screen shots
 
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/a9e64b6d-31f6-43ca-95a1-5f81c9203d46">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/c7ec9fd0-c303-4660-b970-8a2808cb7a15">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/ac2d88a2-319e-425e-bc28-4ad9be979396">|
-|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/8fa40499-bb8f-4ab5-8be4-029fd8d0eb63">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/cdf89017-49f6-4d2f-94fe-e001f51f5a88">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/8fdef53a-5b97-4051-a7ab-7a570f70dedf">|
-|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/bdad95d7-2be2-4913-b450-8d8493e1a490">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/216e6f88-a1a0-4049-8978-0331552d2f21">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/008883d8-a655-474c-b058-cbf3f62eec2a">|
+|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/d00f0251-9aa9-4a31-8ea8-fa1a39e254d4">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/14b3c59e-fde0-40f8-a0eb-2d5fd0563ce4">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/dc4db68a-9686-425b-ac29-2497e6c108c9">|
+|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/07cf5e04-a391-4093-897e-b87ea8f34da2">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/03bab3d0-acf8-4ae8-aa79-1940b48d7a56">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/3c2dfce6-1c4e-4f39-8cd7-b76f5defe1a1">|
+|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/ab071c24-14b8-4745-860f-3e0e30baa1ee">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/5a9786cc-7219-4501-8eab-757c889074a0">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/f6eaa2e8-91bd-4f0d-8f6a-734087fd5566">|
 
 
 ### wrong examples
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/761f8779-76ea-4920-ac73-202a7235b02f">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/41070165-7321-4b6e-8ad0-b8d03feb0ada">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/5a999bb4-1586-4d34-a9b3-948841977319)">|
-|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/cbcb6bf0-9eae-494e-89fb-31f7b8c2c64e">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/6119bc6d-978f-4ea6-9f4d-768a4fd939f8)">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/d3641073-65c4-4bb1-b624-6066c68be8c3">|
-|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/1f4a359e-87b8-4dfe-8b55-78865d62ce8b">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/7a2b6ad0-4294-4e00-bd6b-932c5cfc7927">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/1f62ece4-7542-4d2d-9e9f-d253b3c303ab">|
-|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/9295b4da-a915-4ba6-b46f-52e3b80c801e"> |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/e779f62b-3024-4029-8775-3930962af41a">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/27f9c4ad-3d6e-45da-a149-e0452137a317">|
+|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/306de9ce-f35e-4efd-991e-6381c72288a7">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/73b212cf-99d7-4cbd-b5f5-2eab0c2a3525">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/c6a2a290-790c-4037-82bd-fa92ad6118ca">|
+|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/82723ab7-7351-4d17-8814-b84725b6e0cd">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/d31b32a7-1f1f-49d4-9f65-ad4bd2a0bf54">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/e9df1fe8-cc4d-487e-86ce-135f7177d96b">|
+|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/0a73e233-d1bf-4ca1-8324-24a7ed83b3a6">  |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/8b5cefb0-bfac-4f8b-ae09-adc05a82d3d4">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/71231c14-c8f8-485e-85ce-db2d20c1956a">|
+|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/cfc2f409-1e1e-4b67-8fcb-49ff0e9f3e56"> |  <img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/739eaf0c-a55d-4c99-af73-edc1773c03d3">|<img width="1604"  src="https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/5770d768-f1e9-48f9-8c8c-f5234641f3be">|
 
 
 
