@@ -1,7 +1,7 @@
 # Function-Plotter
 **Function-Plotter is an application to visualize, analyze and plot any mathematical function you want**
 ___
-##Screen shots
+## Screen shots
 
 ### working screen shots
 <table>
@@ -48,11 +48,11 @@ ___
 </table>
 
 ___
-##Video Recording
+## Video Recording
  
 https://github.com/Seifeldin-Ahmed/Function-Plotter/assets/120275931/2f8195c7-2c79-4add-97e9-b7ae56206739
 ___
-##How to  Start
+## How to  Start
 
 First, install python requirements by using the following command:
 
@@ -88,7 +88,7 @@ ___
 └── ├── test_validate_fields.py
 ```
 ___
-##Author
+## Author
 The Function Plotter App was created by Seifeldin Ahmed.
 
 
